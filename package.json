@@ -1,0 +1,28 @@
+{
+  "name": "duo-postcss",
+  "version": "1.0.0",
+  "description": "Postcss plugin for duo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhsnopek/duo-postcss.git"
+  },
+  "author": "Henry Snopek <hhsnopek@gmail.com> (http://hhsnopek.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhsnopek/duo-postcss/issues"
+  },
+  "homepage": "https://github.com/hhsnopek/duo-postcss#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "postcss": "^5.0.4"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "duo": "^0.15.3",
+    "mocha": "^2.3.2"
+  }
+}

@@ -1,0 +1,14 @@
+@use postcss-color-gray
+
+.foo {
+  color: gray(0);
+}
+
+.bar {
+  color: gray(255, 50%);
+}
+
+.baz {
+  color: gray;
+}
+
