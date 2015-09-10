@@ -1,6 +1,6 @@
 {
   "name": "duo-postcss",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Postcss plugin for duo",
   "main": "index.js",
   "scripts": {
