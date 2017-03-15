@@ -1,5 +1,7 @@
 # duo-postcss
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hhsnopek/duo-postcss.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/hhsnopek/duo-postcss.svg?branch=master)](https://travis-ci.org/hhsnopek/duo-postcss)
 
 Ability to use postcss with [duo](https://github.com/duojs/duo).
